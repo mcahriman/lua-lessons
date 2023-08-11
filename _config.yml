@@ -1,0 +1,11 @@
+title: Мова програмування Lua та Roblox крок за кроком
+description: >-
+  Невеликими кроками вивчаємо мову програмування Lua та конспектуємо. Вчимо Roblox
+baseurl: ""
+url: ""
+mastodon: manfredos@manstodon.online
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
