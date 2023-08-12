@@ -20,3 +20,26 @@ p > img + em {
   margin-bottom: 2em;
 
 }
+
+.big-red-warning {
+  &>i {
+    font-size: 2em;
+    color: orangered;
+    display: block;
+    text-align: center;
+    margin: 0.5em;
+  
+  }
+  border-color: orangered;
+  border-style: solid;
+  font-size: 1em;
+  color: gray;
+  font-weight: bold;
+  margin: 1em;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
